@@ -1,0 +1,6 @@
+{
+  "name": "OldModeno",
+  "description": "Aplicativo para ajudar idosos a aprenderem a usar o smartphone com toques suaves e sem força desnecessária.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
